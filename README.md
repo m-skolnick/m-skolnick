@@ -10,3 +10,7 @@ I'm a software engineer at [Coolfire Solutions](https://www.coolfiresolutions.co
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I grew up competing at Table Tennis and Horseback Riding (barrel racing)
 
+### Github Stats
+
+[![Micaiah's Github Stats](https://github-readme-stats.vercel.app/api?username=m-skolnick&count_private=true&theme=default&show_icons=true)](https://github.com/m-skolnick)
+
