@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer at [Coolfire Solutions](https://www.coolfiresolutions.com/) where we companies get the job done!
+I'm a software engineer at [Coolfire Solutions](https://www.coolfiresolutions.com/) where we help companies get the job done!
 
 - 🔭 I’m currently working on [Beacon](https://www.trekmedics.org/beacon/) and [Core](https://www.coolfiresolutions.com/core)
 - 🌱 I’m currently learning 
