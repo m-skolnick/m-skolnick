@@ -2,7 +2,7 @@
 
 I'm a software engineer at [Alkami](https://www.alkami.com/) where we inspire and empower remarkable financial institutions to grow confidently, adapt quickly, and build thriving digital communities!
 
-- 🔭 I’m currently working on [Beacon](https://www.trekmedics.org/beacon/) and [Mobile Banking](https://www.alkami.com/)
+- 🔭 I’m currently working on [Beacon Emergency Response](https://www.trekmedics.org/beacon/) and [Mobile Banking](https://www.alkami.com/)
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on closing the gender and racial gap in software
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
